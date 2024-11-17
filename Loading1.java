@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Sudhir Kushwaha
+ * @author Aasma raj
  */
 public class Loading1 extends javax.swing.JFrame {
 
