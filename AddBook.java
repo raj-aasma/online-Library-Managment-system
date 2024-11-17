@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sudhir Kushwaha
+ * @author Aasma raj
  */
 public class AddBook extends javax.swing.JFrame {
 
